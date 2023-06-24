@@ -43,7 +43,8 @@ h2 {
 
 .foto img {
     border-radius: 10px;
-    box-shadow: 0 0 0 1px #eb0505;
+    box-shadow: 0 0 0 3px #ffffff, 0 0 0 4px #eb0505;
+    margin: -4px;
    
 }
 .datos{
